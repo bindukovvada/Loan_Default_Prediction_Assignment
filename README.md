@@ -11,6 +11,8 @@ Now, we have information about demographics (gender, age, employment status Bank
 
 1 = High credit risk i.e low chance of paying back the loan amount
 
+
+
 Key points:
 
 There are more male applicants. Majority of high risk applicants are also male candidates.
@@ -30,6 +32,8 @@ Applicants who are approved for 12 months, 24 months, or 36 months are considere
 Applicants with a high EMI rate of percentage are more likely to be labelled high risk.
 
 Banks have more high-risk applicants than stores.
+
+
 
 Improvements:
 
