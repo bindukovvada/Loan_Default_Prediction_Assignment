@@ -14,13 +14,21 @@ Now, we have information about demographics (gender, age, employment status Bank
 Key points:
 
 There are more male applicants. Majority of high risk applicants are also male candidates.
-We observed that applicants between the ages of 25 and 40 are more likely to be high risk, indicating that young individuals are smart enough to cheat. data.
+
+We observed that applicants between the ages of 25 and 40 are more likely to be high risk, indicating that young individuals are smart enough to cheat. 
+
 Majority of High risk applicants are skilled workers with 1 - 4 years of experience.
+
 Individuals with low balance are more likely to be high risk applicants.
+
 Loans with less than two appear to be high risk applicants.
+
 We can see that individuals who pay accurately are high risk applicants, implying that they will pay correctly for a few days and then cheat.
+
 Applicants who are approved for 12 months, 24 months, or 36 months are considered high risk.
+
 Applicants with a high EMI rate of percentage are more likely to be labelled high risk.
+
 Banks have more high-risk applicants than stores.
 
 Improvements:
